@@ -32,8 +32,6 @@ Durante o laboratório será criada uma instância EC2 utilizando o conceito de 
 .
 ├── Dockerfile
 ├── main.tf
-├── .gitignore
-├── .dockerignore
 └── README.md
 ```
 
